@@ -36,11 +36,17 @@ game will move on to the next word in the list until there are no more words to 
 without guessing the word, the game will display a "YOU LOSE" message and move on to the next word in the list.
 
 
-## About me
+## About the author
 
 I wrote this project in my first semester of University so the code is not very pretty. I will try cleaning up the code 
 in the near and would always take some suggestions to optimise my code!
 
+* [Link to my GitHub](https://github.com/hanslo78)
+
+* [Link to my university](https://www.campus02.at/)
+
+
 ### Links to other exercises
 
 * [Exercise1](exercise1.md)
+* [Exercise2](exercise2.md)
