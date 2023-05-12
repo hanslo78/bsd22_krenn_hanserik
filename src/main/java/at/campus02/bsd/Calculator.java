@@ -1,3 +1,6 @@
+package at.campus02.bsd
+        ;
+
 public class Calculator {
 
     public double add(double num1, double num2) {
