@@ -6,7 +6,7 @@
 - Install JDK
 - ???
 - Created the Maven Project in this one
-- Added the target folder 
+- Target folder got added 
 - Written some smart methods for my Calculator Programm
 
 
