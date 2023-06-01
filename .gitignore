@@ -3,3 +3,4 @@ exercise1.html
 target
 .idea
 *.log
+/logs/
