@@ -51,3 +51,5 @@ in the near and would always take some suggestions to optimise my code!
 * [Exercise1](exercise1.md)
 * [Exercise2](exercise2.md)
 * [Exercise3](exercise3.md)
+* [Exercise4](exercise4.md)
+

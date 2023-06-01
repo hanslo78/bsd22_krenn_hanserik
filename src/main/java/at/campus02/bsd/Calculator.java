@@ -19,4 +19,13 @@ public class Calculator {
         return num1 * num2;
     }
 
+    public double faculty(double num1) {
+        int fact = 1;
+
+        for (int i = 1; i <= num1; i++) {
+            fact = fact * i;
+        }
+        return fact;
+    }
+
 }
