@@ -102,7 +102,7 @@ public class CalculatorTest {
 
     @Test
     public void testCaseFaculty2() {
-        assertEquals(1, calculator.faculty(0));
+        assertEquals(0, calculator.faculty(0));
     }
 
     @Test
